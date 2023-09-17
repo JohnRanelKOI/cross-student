@@ -1,0 +1,9 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "fe8b486f8cf0a08b1656c416fb7c06f6ee6960433d39f697b3cc2e88bfa3931a"
+build_start_time: [1694731267, 547058000]
+build_end_time: [1694731270, 718510000]
+inputs:
+  ? "/Users/johnraneldimaculangan/IT725/Cross Student Job Portal/cross_ctudent_job_portal/macos/Flutter/GeneratedPluginRegistrant.swift"
+  : [1694731256, 71216239]
+  "/Users/johnraneldimaculangan/IT725/Cross Student Job Portal/cross_ctudent_job_portal/macos/Runner/AppDelegate.swift": [1692205996, 0]
+  "/Users/johnraneldimaculangan/IT725/Cross Student Job Portal/cross_ctudent_job_portal/macos/Runner/MainFlutterWindow.swift": [1692205996, 0]
